@@ -1,4 +1,6 @@
-# Hot Takes On The Best Movie Ever created ever
+
+# Hot Takes On The Best Movie Created
+
 
 ## Installation
 <p>This one page app is build using Visual Studio Code and Sublime Text.</p>
